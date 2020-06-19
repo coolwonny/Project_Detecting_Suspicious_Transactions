@@ -1,4 +1,4 @@
-# Project_Detecting_Suspicious_Transactions
+# Looking for Suspicious Transactions
 #### Pandas, SQL, Plotly Express
 ---
 ## Background
