@@ -13,3 +13,8 @@ You are asked to accomplish three main tasks:
 
 3. Data Analysis: Analyze the data to identify possible fraudulent transactions.
 
+---
+## Optional Challenge
+
+Another approach to identify fraudulent transactions is to look for outliers in the data. **Standard deviation** or **quartiles** are often used to detect outliers. Define a function using these approaches and apply it to the transactions in the project.
+
